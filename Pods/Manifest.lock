@@ -1,0 +1,15 @@
+PODS:
+  - HACBarChart (0.0.8)
+  - MBCircularProgressBar (0.3.5)
+
+DEPENDENCIES:
+  - HACBarChart
+  - MBCircularProgressBar
+
+SPEC CHECKSUMS:
+  HACBarChart: 040db6885db03ccca5f5ca93436763734fc3eb41
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+
+PODFILE CHECKSUM: 6e83ba28d86d94946eadf05cb12d9a7e3e16437d
+
+COCOAPODS: 1.4.0
